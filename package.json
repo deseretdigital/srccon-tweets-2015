@@ -1,0 +1,15 @@
+{
+  "name": "srccon-tweets-2015",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "twit": "^1.1.20"
+  }
+}
